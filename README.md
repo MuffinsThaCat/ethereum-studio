@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/SuperblocksHQ/ethereum-studio)
+
 # [Ethereum Studio](https://superblocks.com/ethereum-studio)
 
 [![Join the community](https://img.shields.io/discourse/status?label=community&server=https%3A%2F%2Fdiscuss.superblocks.com%2F)](https://discuss.superblocks.com/c/ethereum-studio) [![Superblocks](https://superblocks.com/d/superblocks/projects/ethereum-studio.svg?branch=master)](https://superblocks.com/d/superblocks/projects/ethereum-studio) [![Follow in Twitter](https://img.shields.io/twitter/follow/getSuperblocks.svg?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=GetSuperblocks)
